@@ -1,0 +1,6 @@
+{
+  "name": "Memora Flashcards",
+  "description": "A single-screen flashcard study application with 3D flip animation, card management, keyboard shortcuts, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
